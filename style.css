@@ -1,0 +1,118 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nagycucc{
+    width: 1500px;
+    height: 800px;
+    margin-left: 200px;
+    background-color: rgba(21, 104, 182, 0.664);
+    
+}
+.rolam{
+    width: 300px;
+    height: 796px;
+    margin-left: -14px;
+    margin-top: -820px;
+    background-color: rgba(255, 255, 255, 0.596);
+    padding: 10px;
+}
+.rólam{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 5px;
+}
+.nev{
+    text-align: center;
+    font-size: 22px;
+    margin-top: -20px;
+}
+.martin{
+    width: 250px;
+    margin-left: 25px;
+    border: 2px solid black;
+}
+.datum{
+    font-size: 22px;
+    margin-left: 5px;
+}
+.insta{
+    list-style-image: url(img/insta.png);
+}
+.face{
+    list-style-image: url(img/Face.png);
+}
+.gmail{
+    list-style-image: url(img/Gmail-logo.png);    
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+.elerhetosegeim{
+    margin-left: 5px;
+}
+ul{
+    margin-left: 10px;
+}
+li{
+    font-weight: bold;
+}
+.jobb{
+    margin-left: 307px;
+    margin-top: -7px;
+    width: 1200px;
+    height: 800px;
+    margin-right: -13px;
+    
+}
+.táblázat{
+    
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
+}
+
+table{
+    border-spacing: 15px;
+    text-align: justify;
+}
+.itunes{
+    width: 60px;
+    margin-left: 80px;
+    margin-top: -140px;
+    margin-left: 100px;
+}
+.netflix{
+    width: 90px;
+    float: right;
+    margin-top:35px;
+
+}
+.kosar{
+    width: 90px;
+    height: 60px;
+    margin-top: 10px;
+    
+}
+.hobbi{
+    margin-top: 50px;
+}
+th{
+    text-align:center ;
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+td{
+    font-size: 20px;
+}
+.vegszo{
+    margin-left: 20px;
+    text-align: justify;
+}
